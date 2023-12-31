@@ -1,0 +1,61 @@
+30-12-2023-16:10 Brightness 0.83 WIN_20230716_20_18_22_Pro.jpg
+30-12-2023-16:10 Contast 0.51 WIN_20230716_20_18_22_Pro.jpg
+30-12-2023-16:10 Contast 1.87 WIN_20230716_20_18_22_Pro.jpg
+30-12-2023-16:11 Flip 1,0 WIN_20230716_20_18_22_Pro.jpg
+30-12-2023-16:11 Grayscale NONE WIN_20230716_20_18_22_Pro.jpg
+30-12-2023-16:11 Invert NONE WIN_20230716_20_18_22_Pro.jpg
+30-12-2023-16:11 Seipa NONE WIN_20230716_20_18_22_Pro.jpg
+30-12-2023-16:15 Contrast 2.0 WIN_20230716_20_18_22_Pro.jpg
+30-12-2023-16:28 Grayscale NONE WIN_20230716_20_17_49_Pro.jpg
+30-12-2023-18:55 Brightness 0.935 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-18:58 Brightness 0.595 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-20:00 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-20:06 Rotation 0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-20:11 Rotation 0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:50 Flip 1,0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:50 Flip 0,1 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:50 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:50 Rotation 180 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:50 Rotation 270 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:51 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:51 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:56 Rotation 0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:57 Rotation 0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:57 Rotation 0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:57 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:57 Rotation 180 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:57 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:57 Rotation 180 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:57 Rotation 270 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-21:57 Rotation 0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:03 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:03 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:03 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:03 Rotation 180 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:04 Rotation 270 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:04 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:04 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:04 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:05 Rotation 0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:05 Rotation 0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:05 Rotation 180 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:05 Rotation 180 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:05 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:05 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:05 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:05 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:05 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:08 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:08 Rotation 180 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:31 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:33 Rotation 90 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:33 Rotation 180 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:34 Rotation 270 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-22:34 Rotation 0 Screenshot from 2023-12-30 10-24-19.png
+30-12-2023-23:47 Brightness 0.23 Rafale-Next-Gen-1.jpg
+30-12-2023-23:47 Brightness 0.38 Rafale-Next-Gen-1.jpg
+30-12-2023-23:47 Brightness 0.48 Rafale-Next-Gen-1.jpg
+30-12-2023-23:47 Brightness 0.5 Rafale-Next-Gen-1.jpg
+30-12-2023-23:49 Brightness 0.45 Rafale-Next-Gen-1.jpg
+30-12-2023-23:55 Brightness 0.37 Rafale-Next-Gen-1.jpg
+30-12-2023-23:55 Brightness 0.37 Rafale-Next-Gen-1.jpg
