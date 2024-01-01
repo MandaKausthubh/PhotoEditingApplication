@@ -59,3 +59,48 @@
 30-12-2023-23:49 Brightness 0.45 Rafale-Next-Gen-1.jpg
 30-12-2023-23:55 Brightness 0.37 Rafale-Next-Gen-1.jpg
 30-12-2023-23:55 Brightness 0.37 Rafale-Next-Gen-1.jpg
+31-12-2023-20:49 Contrast 1.84 Rafale-Next-Gen-1.jpg
+31-12-2023-20:49 Contrast 0.16 Rafale-Next-Gen-1.jpg
+31-12-2023-20:49 Contrast 0.64 Rafale-Next-Gen-1.jpg
+31-12-2023-20:49 Contrast 1.11 Rafale-Next-Gen-1.jpg
+31-12-2023-20:49 Contrast 1.4 Rafale-Next-Gen-1.jpg
+31-12-2023-20:49 Contrast 1.4 Rafale-Next-Gen-1.jpg
+31-12-2023-20:49 Flip 1,0 Rafale-Next-Gen-1.jpg
+31-12-2023-20:50 Flip 1,1 Rafale-Next-Gen-1.jpg
+31-12-2023-20:50 Flip 1,0 Rafale-Next-Gen-1.jpg
+31-12-2023-20:50 Grayscale NONE Rafale-Next-Gen-1.jpg
+31-12-2023-20:50 Invert NONE Rafale-Next-Gen-1.jpg
+31-12-2023-20:51 Seipa NONE Rafale-Next-Gen-1.jpg
+31-12-2023-20:51 Brightness 0.875 Rafale-Next-Gen-1.jpg
+31-12-2023-20:51 Brightness 0.68 Rafale-Next-Gen-1.jpg
+31-12-2023-20:51 Brightness 0.48 Rafale-Next-Gen-1.jpg
+31-12-2023-20:51 Brightness 0.165 Rafale-Next-Gen-1.jpg
+31-12-2023-20:51 Brightness 0.0 Rafale-Next-Gen-1.jpg
+31-12-2023-20:52 Contrast 0.7 Rafale-Next-Gen-1.jpg
+31-12-2023-20:52 Contrast 1.93 Rafale-Next-Gen-1.jpg
+31-12-2023-20:52 Grayscale NONE Rafale-Next-Gen-1.jpg
+31-12-2023-20:52 Invert NONE Rafale-Next-Gen-1.jpg
+31-12-2023-20:52 Rotation 90 Rafale-Next-Gen-1.jpg
+31-12-2023-20:53 Seipa NONE Rafale-Next-Gen-1.jpg
+31-12-2023-21:49 Brightness 0.3 Rafale-Next-Gen-1.jpg
+31-12-2023-21:52 Brightness 0.45 Rafale-Next-Gen-1.jpg
+31-12-2023-21:52 Brightness 0.3 Rafale-Next-Gen-1.jpg
+31-12-2023-21:52 Brightness 0.03 Rafale-Next-Gen-1.jpg
+31-12-2023-23:58 Brightness 0.1 Rafale-Next-Gen-1.jpg
+31-12-2023-23:58 Brightness 0.29 Rafale-Next-Gen-1.jpg
+01-01-2024-00:00 Brightness 0.3 Rafale-Next-Gen-1.jpg
+01-01-2024-00:00 Brightness 0.5 Rafale-Next-Gen-1.jpg
+01-01-2024-00:04 Brightness 0.5 Rafale-Next-Gen-1.jpg
+01-01-2024-00:06 Brightness 0.1 Rafale-Next-Gen-1.jpg
+01-01-2024-00:06 Brightness 0.41 Rafale-Next-Gen-1.jpg
+01-01-2024-00:06 Brightness 0.41 Rafale-Next-Gen-1.jpg
+01-01-2024-00:07 Brightness 0.5 Rafale-Next-Gen-1.jpg
+01-01-2024-00:08 Brightness 0.5 Rafale-Next-Gen-1.jpg
+01-01-2024-00:17 Brightness 0.5 Rafale-Next-Gen-1.jpg
+01-01-2024-00:21 Brightness 0.5 Screenshot from 2023-12-30 10-24-19.png
+01-01-2024-08:35 Gaussian Blur 0.44 Rafale-Next-Gen-1.jpg
+01-01-2024-09:39 Gaussian Blur 0.35 Rafale-Next-Gen-1.jpg
+01-01-2024-09:44 Gaussian Blur 0.48 Rafale-Next-Gen-1.jpg
+01-01-2024-09:47 Gaussian Blur 0.42 Rafale-Next-Gen-1.jpg
+01-01-2024-09:52 Gaussian Blur 0.4 Rafale-Next-Gen-1.jpg
+01-01-2024-09:55 Gaussian Blur 0.29 Rafale-Next-Gen-1.jpg

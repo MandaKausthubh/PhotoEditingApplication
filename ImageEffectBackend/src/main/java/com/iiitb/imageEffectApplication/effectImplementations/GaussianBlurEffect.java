@@ -6,6 +6,7 @@ import com.iiitb.imageEffectApplication.baseEffects.SingleValueParameterizableEf
 import com.iiitb.imageEffectApplication.exception.IllegalParameterException;
 import com.iiitb.imageEffectApplication.libraryInterfaces.Pixel;
 import com.iiitb.imageEffectApplication.libraryInterfaces.BrightnessInterface;
+import com.iiitb.imageEffectApplication.libraryInterfaces.GaussianBlurInterface;
 import com.iiitb.imageEffectApplication.service.LoggingService;
 
 
@@ -19,9 +20,9 @@ public class GaussianBlurEffect implements SingleValueParameterizableEffect{
     }
     public Pixel[][] apply(Pixel[][] image, String fileName, LoggingService loggingService){
        
-        loggingService.addLog(fileName, "Brightness", Float.toString(radius)); // handling logging for this 
+        loggingService.addLog(fileName, "Gaussian Blur", Float.toString(radius)); // handling logging for this 
 
-        return BrightnessInterface.applyBrightness(image, radius);
+        return GaussianBlurInterface.applyGaussianBlur(image, radius);
 
     }
     
